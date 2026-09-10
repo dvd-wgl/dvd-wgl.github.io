@@ -1,1 +1,0 @@
-function e(e){return`${e}_${crypto.randomUUID()}`}function t(){return new Date().toISOString()}export{t as n,e as t};
