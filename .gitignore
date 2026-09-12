@@ -1,3 +1,20 @@
 
 
 /redundant/
+
+# Private files must never be committed or deployed.
+personal_setup*.json
+personal-setup*.json
+*.lifeos-backup.json
+*.lifeos-setup.json
+*.life-os-backup.json
+private/
+private-data/
+personal-data/
+real-data/
+real-test-data/
+backups/
+exports/
+setup-Datei/
+.env
+.env.*
